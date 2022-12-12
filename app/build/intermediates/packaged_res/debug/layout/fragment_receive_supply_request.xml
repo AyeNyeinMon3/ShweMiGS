@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_refresh_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="16dp"
+        android:text="Last Refresh Time : "
+        android:textColor="@color/text_color"
+        android:textSize="14sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_choose_item"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="24dp"
+        android:text="Choose Item"
+        android:textColor="@color/text_color"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_refresh_time" />
+
+    <com.google.android.material.chip.ChipGroup
+        android:id="@+id/chipGp_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_choose_item">
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_chain"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဆွဲကြိုး"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_pendant"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဆွဲသီး"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_ear_drop"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="နားဆွဲ"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_earring"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="နားကပ်"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_necklace"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဘယက်"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_ear_ring"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="နားကွင်း"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_ring"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="လက်စွပ်"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_comb"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဘီး"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_bracelet"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="လက်ကောက်"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_hand_chain"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဟန်းချိန်း"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chip_hairpin"
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginStart="16dp"
+            android:elevation="3dp"
+            android:text="ဆံထိုး"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:textColor="@color/chip_text_color"
+            app:chipBackgroundColor="@color/white"
+            app:chipCornerRadius="10dp" />
+    </com.google.android.material.chip.ChipGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

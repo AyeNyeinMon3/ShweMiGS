@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shwe Mi</string>
+    <string name="login">Login</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="new_account">Create new account.</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="have_account">Already have account?</string>
+    <string name="login_textview">Login.</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="myanmar_unicode">Myanmar[unicode]</string>
+</resources>

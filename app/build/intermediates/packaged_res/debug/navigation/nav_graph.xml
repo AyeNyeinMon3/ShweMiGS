@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/uploadNewFragment">
+
+    <fragment
+        android:id="@+id/receiveSupplyRequest"
+        android:name="com.example.shwemi.ReceiveSupplyRequestFragment"
+        android:label="ReceiveFragment"
+        tools:layout="@layout/fragment_receive_supply_request">
+
+    </fragment>
+    <fragment
+        android:id="@+id/supplyRequestItem"
+        android:name="com.example.shwemi.SupplyRequestItemFragment"
+        android:label="OrderFragment"
+        tools:layout="@layout/fragment_supply_request_item"/>
+    <fragment
+        android:id="@+id/supplyRequestDetail"
+        android:name="com.example.shwemi.SupplyRequestDetailFragment"
+        android:label="SupplyRequestDetail"
+        tools:layout="@layout/fragment_supply_request_detail"/>
+    <fragment
+        android:id="@+id/orderDetailFragment"
+        android:name="com.example.shwemi.OrderDetailFragment"
+        android:label="OrderDetailFragment"
+        tools:layout="@layout/fragment_order_detail"/>
+    <fragment
+        android:id="@+id/uploadNewFragment"
+        android:name="com.example.shwemi.UploadNewFragment"
+        android:label="UploadNewFragment"
+        tools:layout="@layout/fragment_upload_new"/>
+</navigation>

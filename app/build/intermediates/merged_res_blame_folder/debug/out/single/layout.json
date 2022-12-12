@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\item_order_detail.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item_order_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_upload_new.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_upload_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_receive.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_receive_supply_request.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_receive_supply_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_supply_request_detail.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_supply_request_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_supply_request_item.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_supply_request_item.xml"
+    },
+    {
+        "merged": "com.example.shwemi.app-mergeDebugResources-46:/layout/fragment_upload_new.xml",
+        "source": "com.example.shwemi.app-main-49:/layout/fragment_upload_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\login.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\item_detail.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_order.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\spinner_text_style.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\spinner_text_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\item.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\sign_up.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\item_supply.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item_supply.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-mergeDebugResources-46:\\layout\\fragment_order_detail.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_order_detail.xml"
+    }
+]
