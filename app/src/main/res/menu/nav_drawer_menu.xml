@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="အမှာလက်ခံ"
+        android:icon="@drawable/menu_item_icon"/>
+
+    <item
+        android:icon="@drawable/menu_item_icon"
+        android:title="အော်ဒါလက်ခံ" />
+
+    <item
+        android:icon="@drawable/menu_item_icon"
+        android:title="အသစ်တင်" />
+</menu>

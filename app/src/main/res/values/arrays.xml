@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="gold_quality">
+    <array name="gold_quality" >
         <item>Choose Gold Quality</item>
         <item>100%AC</item>
         <item>Rose Gold</item>

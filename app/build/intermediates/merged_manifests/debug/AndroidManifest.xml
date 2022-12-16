@@ -22,6 +22,7 @@
         android:theme="@style/Theme.ShweMi" >
         <activity
             android:name="com.example.shwemi.MainActivity"
+            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

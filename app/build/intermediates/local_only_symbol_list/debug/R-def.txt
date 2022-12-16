@@ -33,7 +33,9 @@ drawable ic_launcher_foreground
 drawable language_text_view
 drawable lock
 drawable logo
+drawable menu_item_icon
 drawable person
+drawable profile
 drawable rectangle
 drawable rectangle2
 drawable star
@@ -69,6 +71,7 @@ id chip_necklace
 id chip_pendant
 id chip_ring
 id coordinatorLayout
+id drawerLayout
 id editTextNumber
 id editTextNumber10
 id editTextNumber2
@@ -86,6 +89,7 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
+id imageView5
 id linearLayout
 id linearLayout2
 id login_button
@@ -93,8 +97,11 @@ id login_checkbox
 id login_text
 id login_textview
 id logo_image
+id materialToolbar
 id name_edit
+id navView
 id nav_graph
+id nav_header
 id nav_host_fragment
 id new_account_text
 id orderDetailFragment
@@ -118,6 +125,8 @@ id textView10
 id textView11
 id textView12
 id textView13
+id textView14
+id textView15
 id textView2
 id textView3
 id textView4
@@ -146,8 +155,10 @@ layout item_detail
 layout item_order_detail
 layout item_supply
 layout login
+layout nav_header
 layout sign_up
 layout spinner_text_style
+menu nav_drawer_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph

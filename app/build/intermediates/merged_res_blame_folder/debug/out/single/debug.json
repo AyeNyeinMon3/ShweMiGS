@@ -96,6 +96,10 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\lock.xml"
     },
     {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\menu_nav_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\menu\\nav_drawer_menu.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_logo.jpg.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\logo.jpg"
     },
@@ -130,10 +134,6 @@
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_spinner_text_style.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\spinner_text_style.xml"
-    },
-    {
-        "merged": "com.example.shwemi.app-merged_res-47:/layout_fragment_upload_new.xml.flat",
-        "source": "com.example.shwemi.app-main-49:/layout/fragment_upload_new.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_upload_new.xml.flat",
@@ -180,6 +180,10 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\font\\padauk_bold.xml"
     },
     {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_nav_header.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\nav_header.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
     },
@@ -204,8 +208,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\background_edit_text_one.xml"
     },
     {
+        "merged": "com.example.shwemi.app-merged_res-47:/navigation_nav_graph.xml.flat",
+        "source": "com.example.shwemi.app-main-49:/navigation/nav_graph.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_order.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_order.xml"
+    },
+    {
+        "merged": "com.example.shwemi.app-merged_res-47:/layout_fragment_order_detail.xml.flat",
+        "source": "com.example.shwemi.app-main-49:/layout/fragment_order_detail.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\font_roboto.xml.flat",
@@ -222,6 +234,14 @@
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_menu_item_icon.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\menu_item_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\profile.png"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_supply_request_item.xml.flat",

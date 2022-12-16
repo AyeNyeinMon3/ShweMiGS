@@ -2556,6 +2556,7 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable menu_item_icon
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2580,6 +2581,7 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable person
+drawable profile
 drawable rectangle
 drawable rectangle2
 drawable star
@@ -2790,6 +2792,7 @@ id dragLeft
 id dragRight
 id dragStart
 id dragUp
+id drawerLayout
 id dropdown_editable
 id dropdown_menu
 id dropdown_noneditable
@@ -2863,6 +2866,7 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
+id imageView5
 id immediateStop
 id included
 id info
@@ -2894,6 +2898,7 @@ id ltr
 id masked
 id match_constraint
 id match_parent
+id materialToolbar
 id material_clock_display
 id material_clock_face
 id material_clock_hand
@@ -2949,8 +2954,10 @@ id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
 id name_edit
+id navView
 id nav_controller_view_tag
 id nav_graph
+id nav_header
 id nav_host_fragment
 id nav_host_fragment_container
 id navigation_bar_item_active_indicator_view
@@ -3116,6 +3123,8 @@ id textView10
 id textView11
 id textView12
 id textView13
+id textView14
+id textView15
 id textView2
 id textView3
 id textView4
@@ -3350,6 +3359,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout nav_header
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -3378,6 +3388,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu nav_drawer_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation nav_graph
