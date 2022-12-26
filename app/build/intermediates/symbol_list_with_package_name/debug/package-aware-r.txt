@@ -1252,6 +1252,7 @@ color accent_material_dark
 color accent_material_light
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
+color background
 color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
@@ -2524,6 +2525,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable ellipse
 drawable eye
+drawable eye2
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2535,6 +2537,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable item_image
 drawable language_text_view
 drawable lock
 drawable logo
@@ -2662,6 +2665,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_orderDetailFragment_to_receiveSupplyRequest
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2874,6 +2878,8 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id iv_eye
+id iv_item
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -3021,6 +3027,8 @@ id rtl
 id rv
 id rv_detail
 id rv_order_detail
+id rv_sample
+id sampleFragment
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3164,10 +3172,13 @@ id tv_P
 id tv_Y
 id tv_avg_weight
 id tv_choose_item
+id tv_content
 id tv_date
 id tv_gold_quality
 id tv_per_unit
 id tv_refresh_time
+id tv_title
+id tv_weight
 id unchecked
 id uniform
 id unlabeled
@@ -3304,11 +3315,13 @@ layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout fragment_order_detail
 layout fragment_receive_supply_request
+layout fragment_sample
 layout fragment_supply_request_detail
 layout fragment_supply_request_item
 layout fragment_upload_new
 layout item_detail
 layout item_order_detail
+layout item_sample
 layout item_supply
 layout login
 layout m3_alert_dialog

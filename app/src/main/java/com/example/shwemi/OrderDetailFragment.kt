@@ -5,6 +5,9 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import androidx.navigation.Navigation
+import androidx.navigation.findNavController
+import androidx.navigation.fragment.findNavController
 import com.example.shwemi.databinding.FragmentOrderDetailBinding
 
 class OrderDetailFragment : Fragment() {
@@ -38,6 +41,7 @@ class OrderDetailFragment : Fragment() {
             OrderDetailData("11"),
             OrderDetailData("12"),
         ))
+
     }
 
 }

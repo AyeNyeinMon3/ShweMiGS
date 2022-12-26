@@ -4,20 +4,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\ellipse.png"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_item.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_background_edit_text_two.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\background_edit_text_two.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\color_chip_text_color.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\color\\chip_text_color.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_rectangle2.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\rectangle2.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\color_chip_text_color.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\color\\chip_text_color.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_activity_main.xml.flat",
@@ -36,8 +32,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\background_spinner.xml"
     },
     {
+        "merged": "com.example.shwemi.app-merged_res-47:/layout_item_sample.xml.flat",
+        "source": "com.example.shwemi.app-main-49:/layout/item_sample.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_eye.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\eye.png"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_vector.png.flat",
@@ -52,16 +56,12 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_order_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_language_text_view.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\language_text_view.xml"
-    },
-    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_eye.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\eye.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_language_text_view.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\language_text_view.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_item_supply.xml.flat",
@@ -86,6 +86,10 @@
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_eye2.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\eye2.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_call.xml.flat",
@@ -148,8 +152,8 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\color\\chip_sectext_color.xml"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_background_rv.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\background_rv.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_item_image.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\item_image.png"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_receive_supply_request.xml.flat",
@@ -200,24 +204,16 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\rectangle.png"
     },
     {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable-v24_background_button_two.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable-v24\\background_button_two.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_sample.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_sample.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_background_edit_text_one.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\background_edit_text_one.xml"
     },
     {
-        "merged": "com.example.shwemi.app-merged_res-47:/navigation_nav_graph.xml.flat",
-        "source": "com.example.shwemi.app-main-49:/navigation/nav_graph.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_order.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_order.xml"
-    },
-    {
-        "merged": "com.example.shwemi.app-merged_res-47:/layout_fragment_order_detail.xml.flat",
-        "source": "com.example.shwemi.app-main-49:/layout/fragment_order_detail.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable-v24_background_button_two.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable-v24\\background_button_two.xml"
     },
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\font_roboto.xml.flat",
@@ -236,6 +232,10 @@
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_item_sample.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\item_sample.xml"
+    },
+    {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\drawable_menu_item_icon.png.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\drawable\\menu_item_icon.png"
     },
@@ -246,9 +246,5 @@
     {
         "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_supply_request_item.xml.flat",
         "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_supply_request_item.xml"
-    },
-    {
-        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-merged_res-47:\\layout_fragment_receive.xml.flat",
-        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.3.3\\com.example.shwemi.app-main-49:\\layout\\fragment_receive.xml"
     }
 ]

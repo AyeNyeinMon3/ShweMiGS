@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [androidx.databinding:databinding-adapters:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\55de2194b055547fa7414bd016e9b531\transformed\databinding-adapters-7.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\241be55675d6e32af02791147d360e64\transformed\databinding-ktx-7.2.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\2778ff7c49cb12ba2f8d21b390668e55\transformed\databinding-runtime-7.2.0\AndroidManifest.xml:17:1-24:12
@@ -65,27 +65,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dell\.gradle\cac
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\39abdf3770b6072027664bd506d70289\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ce6606179310fb5066d50c760e8f2337\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Dell\.gradle\caches\transforms-3\4e1de856e2fdf65ee16e35aed0183e38\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:4:5-33
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:6:5-28:19
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:6:5-29:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ed80d79d6310881b55c147047969e8e0\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ed80d79d6310881b55c147047969e8e0\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
 MERGED from [com.google.android.material:material:1.6.1] C:\Users\Dell\.gradle\caches\transforms-3\0e5b1fe5eea11782434b58c423d63c9d\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
@@ -123,27 +123,29 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\De
 	android:dataExtractionRules
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:8:9-65
 activity#com.example.shwemi.MainActivity
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:16:9-25:20
 	android:exported
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:19:13-91
 	android:name
 		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:17:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:23:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:25:9-27:57
+ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:26:9-28:57
 	android:resource
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:27:13-54
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:28:13-54
 	android:name
-		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:26:13-43
+		ADDED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml:27:13-43
 uses-sdk
 INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Dell\AndroidStudioProjects\ShweMi\app\src\main\AndroidManifest.xml

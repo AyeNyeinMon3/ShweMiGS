@@ -25,6 +25,7 @@
         <item>@font/roboto</item>
         <item>@font/roboto_bold</item>
     </array>
+    <color name="background">#F5F5F5</color>
     <color name="black">#000000</color>
     <color name="edit_text_bg">#F1F6F9 </color>
     <color name="label_text">#C9C9C9</color>
